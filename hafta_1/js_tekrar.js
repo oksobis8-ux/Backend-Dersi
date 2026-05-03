@@ -64,8 +64,6 @@ let isimler = ["baran","nisa","goktug"] //array
      };
      console.log("carp(5):",carp(5))
 
-    
-
     //class - OOP
 
     class Kullanici{

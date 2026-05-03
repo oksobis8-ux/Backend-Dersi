@@ -40,3 +40,5 @@ class Araba{
 const araba1 = new Araba("BMW",10);
 let son_hiz = araba1.vites_arttir(4); 
 console.log("son hız:",son_hiz)
+
+//ÖDEV capsülation ve polimorfizim class typescipt ile
